@@ -1,0 +1,10 @@
+1. 알파벳 중복없이 정렬해서 출력하는 코드 보내기.
+ cut -f1 grades | sort | uniq
+ sort grades | cut -f1 | uniq
+ cut -c1 grades | sort |uniq
+ 
+2. sort -n : string -> num
+ 1, 11, 111, 2
+ 1, 2, 11, 111
+3. git
+- 여러 파일을 한꺼번에 스테이징하기

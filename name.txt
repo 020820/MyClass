@@ -1,0 +1,3 @@
+simth 33 Seoul
+julia 22 Busan
+kim 14 NY
