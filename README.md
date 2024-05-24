@@ -13,4 +13,9 @@
 
 ## 폴더 구조
 
-## Syllabu
+## Syllabus
+|Plugin|README|
+|:---|:---|
+|Dropbox|[plugins/dropbox/README.md](#)|
+|GitHub|[plugins/GitHub/README.md](#)|
+|Google Drive|[plugins/Google Drive/README.md](#)|
