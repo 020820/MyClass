@@ -1,0 +1,8 @@
+    1  :s/from_cmd/to_cmd
+    2  :s/from_cmd/to_cmd | wc -w
+    3  :s/from_cmd/to_cmd | wc -w | wc -w 
+    4  :s/from_cmd/to_cmd | wc -w | wc -w  | wc -w 
+    5  :s/from_cmd/to_cmd | wc -w | wc -w  | wc -w  | wc -w
+    6  dafsd
+    7  asdfadf
+    8  history | head -n 15 > history15

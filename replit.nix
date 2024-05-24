@@ -1,5 +1,8 @@
 { pkgs }: {
   deps = [
+    pkgs.oed
+    pkgs.age
+    pkgs.q-text-as-data
     pkgs.vim
     pkgs.quit
     pkgs.utillinux.bin
