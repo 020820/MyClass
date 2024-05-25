@@ -8,7 +8,7 @@
 수업 내용 정리 및 시험 공부
 
 ## 이미지
-![[hufs][https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAxMTNfMTIy%2FMDAxNjczNTc3MzYwMDIz.8etCHbxwsJuBSAZqJVCuKBnKL_sWfuW64OXWEOCqPOEg.ylwXx5Fu6azwbmeghlrjCMuOTJ8T4L3_MOrp4ICzpMMg.JPEG.negoplay%2F%25B4%25EB%25C7%25A5%25BB%25E7%25C1%25F8.JPG&type=sc960_832]](url)
+![[hufs][https://search.pstatic.net/sunny?src=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064691438288&type=fff208_208]](url)
 
 ## 폴더
 
@@ -16,14 +16,20 @@
 | 주차 | 링크 | 설명 |
 |---|----------|------------|
 | ~~w1~~ | x | ot |
-| w2 |[w2.md](*)| 오픈 소스 첫 수업 |
-| w3 |[w3.md](#)| git |
-| w4 |[w4.md](#)| uniq vs sort |
-| w5 |[w5.md](#)| 리다이렉션 |
-| w6 |[w6.md](#)| 총정리 |
-| w7 |[w7.md](#)| 정규표현식 |
+| w2 |[w2.md](https://replit.com/@erikajjy/OSS#w2.md)| 오픈 소스 첫 수업 |
+| w3 |[w3.md](https://replit.com/@erikajjy/OSS#w3.md)| git |
+| w4 |[w4.md](https://replit.com/@erikajjy/OSS#w4.md)| uniq vs sort |
+| w5 |[w5.md](https://replit.com/@erikajjy/OSS#w5.md)| 리다이렉션 |
+| w6 |[w6.md](https://replit.com/@erikajjy/OSS#w6.md)| 총정리 |
+| w7 |[w7.md](https://replit.com/@erikajjy/OSS#w7.md)| 정규표현식 |
 | ~~w8~~ | x | 중간고사 |
-| w9 |[w9.md](#)| 변수 |
-| w10 |[w10.md](#)| markdown |
-| w11 |[w11.md](#)| git |
+| w9 |[w9.md](https://replit.com/@erikajjy/OSS#w9.md)| 변수 |
+| w10 |[w10.md](https://replit.com/@erikajjy/OSS#w10.md)| markdown |
+| w11 |[w11.md](https://replit.com/@erikajjy/OSS#w11.md)| git |
 
+## txt
+| 이름 | 링크 |
+|------|------|
+| animals.txt | [animals.txt](https://replit.com/@erikajjy/OSS#animals.txt) |
+| essay.txt | [essay.txt](https://replit.com/@erikajjy/OSS#essay.txt) |
+| intro.txt | [intro.txt](https://replit.com/@erikajjy/OSS#intro.txt) |
