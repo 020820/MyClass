@@ -7,7 +7,7 @@
 - 오픈소스sw수업 내용 정리 및 시험 공부
 
 
-![image](image_2.png)
+![image](image_3.png)
 
 
 ## 폴더
