@@ -14,18 +14,18 @@ input_year=$3
 
 # 월 변환
 case "$input_month" in
-    JAN|1) month="Jan" ;;
-    FEB|2) month="Feb" ;;
-    MAR|3) month="Mar" ;;
-    APR|4) month="Apr" ;;
-    MAY|5) month="May" ;;
-    JUN|6) month="Jun" ;;
-    JUL|7) month="Jul" ;;
-    AUG|8) month="Aug" ;;
-    SEP|9) month="Sep" ;;
-    OCT|10) month="Oct" ;;
-    NOV|11) month="Nov" ;;
-    DEC|12) month="Dec" ;;
+    JAN|january|jan|Jan|1) month="Jan" ;;
+    FEB|february|feb|Feb|2) month="Feb" ;;
+    MAR|march|mar|Mar|3) month="Mar" ;;
+    APR|april|apr|Apr|4) month="Apr" ;;
+    MAY|may|May|5) month="May" ;;
+    JUN|june|jun|Jun|6) month="Jun" ;;
+    JUL|july|jul|Jul|7) month="Jul" ;;
+    AUG|august|aug|Aug|8) month="Aug" ;;
+    SEP|september|sep|Sep|9) month="Sep" ;;
+    OCT|october|oct|Oct|10) month="Oct" ;;
+    NOV|november|nov|Nov|11) month="Nov" ;;
+    DEC|december|dec|Dec|12) month="Dec" ;;
     *) month="Invalid" ;;
 esac
 
