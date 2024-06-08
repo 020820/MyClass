@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# 전화번호부 파일 경로
+# 전화번호부
 PHONEBOOK="phonebook.txt"
 
-# 지역번호 매핑
+# 지역번호 지정
 declare -A area_codes
 area_codes["02"]="서울"
 area_codes["031"]="경기"
@@ -28,11 +28,11 @@ then
   exit 1
 fi
 
-# 지역번호 지정
+# 지역번호만 분리
 area_code=$(cut -d'-' -f1 <<< "$phone")
 area=${area_codes[$area_code]}
 
-# 전화번호 존재하는지 판별
+# 동일 전화번호 존재하는지 이름으로 판별
 exist_num=$(grep "^$name " $PHONEBOOK)
 
 if [ -n "$exist_num" ]
