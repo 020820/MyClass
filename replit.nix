@@ -1,5 +1,6 @@
 { pkgs }: {
   deps = [
+    pkgs.pwdsafety
     pkgs.oed
     pkgs.age
     pkgs.q-text-as-data
